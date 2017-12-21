@@ -19,6 +19,7 @@
 		03F842DC1988803C005DDE81 /* Default~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 03F842CF1988803C005DDE81 /* Default~ipad.png */; };
 		03F842DD1988803C005DDE81 /* Default~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 03F842D01988803C005DDE81 /* Default~iphone.png */; };
 		113B9E511FEB38CF00261D0D /* CHAMoatMobileAppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11FD573D1FCFAD7A0008816E /* CHAMoatMobileAppKit.framework */; };
+		113B9E531FEB470600261D0D /* vast-moat-8226746c7f.html in Resources */ = {isa = PBXBuildFile; fileRef = 113B9E521FEB470600261D0D /* vast-moat-8226746c7f.html */; };
 		11D6027A1EC13FDB0075AF5E /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11D602791EC13FDB0075AF5E /* WebKit.framework */; };
 		B57E85E51A1FD5C400E6D9AD /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B57E85E41A1FD5C400E6D9AD /* AdSupport.framework */; };
 		DA93B6B1182B31BC00C21472 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA93B6B0182B31BC00C21472 /* Foundation.framework */; };
@@ -47,6 +48,7 @@
 		03F842CE1988803C005DDE81 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		03F842CF1988803C005DDE81 /* Default~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default~ipad.png"; sourceTree = "<group>"; };
 		03F842D01988803C005DDE81 /* Default~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default~iphone.png"; sourceTree = "<group>"; };
+		113B9E521FEB470600261D0D /* vast-moat-8226746c7f.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "vast-moat-8226746c7f.html"; sourceTree = "<group>"; };
 		11768D631D7F9DE200241EE4 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		11D602791EC13FDB0075AF5E /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		11FD573D1FCFAD7A0008816E /* CHAMoatMobileAppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CHAMoatMobileAppKit.framework; path = ChartboostExampleApp/CHAMoatMobileAppKit.framework; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 		DA93B6B7182B31BC00C21472 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				113B9E521FEB470600261D0D /* vast-moat-8226746c7f.html */,
 				DA93B6B8182B31BC00C21472 /* ChartboostExampleApp-Info.plist */,
 				DA93B6B9182B31BC00C21472 /* InfoPlist.strings */,
 				DA93B6BC182B31BC00C21472 /* main.m */,
@@ -218,6 +221,7 @@
 				DA93B6CC182B31BC00C21472 /* Images.xcassets in Resources */,
 				03D86A7E198735BA000CE5D5 /* Chartboost-LogoH1.png in Resources */,
 				03D86A7C198735B2000CE5D5 /* Demo-Button.png in Resources */,
+				113B9E531FEB470600261D0D /* vast-moat-8226746c7f.html in Resources */,
 				03F842D51988803C005DDE81 /* Default-Landscape~ipad.png in Resources */,
 				03F842D91988803C005DDE81 /* Default-568h@2x.png in Resources */,
 				03F842DD1988803C005DDE81 /* Default~iphone.png in Resources */,
